@@ -1,7 +1,7 @@
 # Maintainer: Vilmar Catafesta <vcatafesta@gmail.com>
 
-pkgname=voidbr-plasma-config-louvorja-piano
-pkgdesc="Skel config for VoidBR Linux PLASMA Meta Package with LouvorJa-Piano"
+pkgname=voidbr-louvorja-piano-config
+pkgdesc="Skel config for VoidBR with LouvorJa-Piano"
 pkgver=$(date +%Y%m%d)
 pkgrel=$(date +%H%M)
 arch=('any')
